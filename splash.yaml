@@ -1,0 +1,17 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/logos/as_dark.png
+  color_dark: "#121212"
+  image_dark: assets/logos/as_light.png
+  
+  # Simple center positioning for better scaling
+  android_gravity: center
+  ios_content_mode: scaleAspectFit
+  
+  android_12:
+    image: assets/logos/as_dark.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/logos/as_light.png
+    icon_background_color_dark: "#121212"
+
+  web: false
